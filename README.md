@@ -4,11 +4,9 @@ A comprehensive collection of my Capture The Flag (CTF) writeups, documenting ch
 ### **Endpoint Forensics**
 ### **Endpoint Forensics**
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 
  
 <br>
-These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty  | 
-|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+
